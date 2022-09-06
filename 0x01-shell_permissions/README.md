@@ -1,1 +1,1 @@
-script that switches the current 
+symbolic_link_permissions
