@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+head --lines=3 iacta | tail --lines=1
+>>>>>>> 754cbb1e6828474540774dc75369bd59034d7416
